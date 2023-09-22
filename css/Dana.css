@@ -1,0 +1,6 @@
+@font-face { 
+    font-family: 'Dana';
+    src: url('/DanaVF.woff') format('woff-variations'),
+    url('/DanaVF.woff') format('woff');
+    font-display: fallback;
+}
